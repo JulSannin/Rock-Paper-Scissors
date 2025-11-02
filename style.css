@@ -1,0 +1,14 @@
+
+.buttons_variables {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.replay_button {
+    width: 100px;
+    display: block;
+    margin: 0 auto;
+}
